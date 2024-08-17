@@ -6,10 +6,10 @@
 
 <h5> What we create? </h5>
 <h6> We create:
-     - Authentication,
-     - Kanban
-     - Web Socket
-     - Cruds
+    - Authentication,
+    - Kanban
+    - Web Socket
+    - Cruds
 </h6>
        
     
