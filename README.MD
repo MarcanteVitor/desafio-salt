@@ -5,12 +5,7 @@
     <h6> We´ve one week to create a front and back using React with Vite, GraphQL, Ant Design and NestJS </h6>
 
 <h5> What we create? </h5>
-<h6> We create:
-    - Authentication,
-    - Kanban
-    - Web Socket
-    - Cruds
-</h6>
+<h6> We create: Authentication - Kanban - Web Socket - Crud´s </h6>
        
     
 </div>
