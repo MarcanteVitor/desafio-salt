@@ -4,13 +4,13 @@
     <h5>"Desafio Salt" is a challenge to me and other developers to learn <b>Refine</b> </h5>
     <h6> We´ve one week to create a front and back using React with Vite, GraphQL, Ant Design and NestJS </h6>
 
-    <h5> What we create? </h5>
-    <h6> We create:
-         - Authentication,
-         - Kanban
-         - Web Socket
-         - Cruds
-    </h6>
+<h5> What we create? </h5>
+<h6> We create:
+     - Authentication,
+     - Kanban
+     - Web Socket
+     - Cruds
+</h6>
        
     
 </div>
