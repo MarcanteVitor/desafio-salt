@@ -2,8 +2,8 @@ import { AuthActionResponse, AuthBindings } from "@refinedev/core";
 import { API_URL, dataProvider } from "./data";
 
 export const authCredentials = {
-  email: "adm@gmail.com",
-  password: "123"
+  email: "michael.scott@dundermifflin.com",
+  password: "demodemo"
 }
 
 export const authProvider: AuthBindings = {
@@ -16,7 +16,7 @@ export const authProvider: AuthBindings = {
         meta: {
           variables: { email },
           rawQuery: `
-            mutation Login($email: string!) {
+            mutation Login($email: String!) {
               login(loginInput: { email: $email }) {
                 accessToken
               }
